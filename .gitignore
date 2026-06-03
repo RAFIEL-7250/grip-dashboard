@@ -1,0 +1,17 @@
+# Secrets
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Excel source (too large, not needed at runtime)
+*.xlsx
+*.xlsm
+
+# IDE
+.vscode/
+.idea/
