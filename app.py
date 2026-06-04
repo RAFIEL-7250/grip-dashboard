@@ -603,4 +603,4 @@ else:
 
 # ========== FOOTER ==========
 st.divider()
-st.caption("Frosted glass · Apple-inspired · GRIP Performance v2.2 — 晴澈")
+st.caption("Frosted glass · Apple-inspired · GRIP Performance v2.3 — 晴澈")
